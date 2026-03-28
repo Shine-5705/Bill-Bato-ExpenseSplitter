@@ -2,6 +2,10 @@
 
 Lightweight web app to split shared expenses among friends, roommates, and teams.
 
+## Live Demo
+
+https://bill-bato.netlify.app/
+
 ## What This Solves
 
 Manual shared-expense tracking causes confusion around:

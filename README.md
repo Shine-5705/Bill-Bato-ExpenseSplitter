@@ -1,4 +1,4 @@
-# Smart Expense Splitter
+# Bill Bato : Smart Expense Splitter
 
 Lightweight web app to split shared expenses among friends, roommates, and teams.
 
